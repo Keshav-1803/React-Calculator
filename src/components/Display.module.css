@@ -1,0 +1,9 @@
+.display {
+  border: 2px solid black;
+  height: 8vh;
+  font-size: 50px;
+  width: 95%;
+  margin: 1%;
+  margin-left: 2%;
+  border-radius: 10px;
+}

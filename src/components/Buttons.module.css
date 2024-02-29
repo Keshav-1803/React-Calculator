@@ -1,0 +1,17 @@
+.calcBtn {
+  width: 25%;
+  height: 9.05vh;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+.c {
+  width: 75%;
+  font-size: 53px;
+  height: 9.05vh;
+}
+
+.calcBtn:hover,
+.c:hover {
+  background-image: linear-gradient(220.55deg, #24cfc5 0%, #001c63 100%);
+}
